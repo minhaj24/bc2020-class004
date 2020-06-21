@@ -1,0 +1,81 @@
+.room {
+    height: 100vh ;
+}
+
+.lit {
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 14px;
+    
+}
+
+.dark{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 14px;
+    
+}
+.add {
+    background-color: maroon;
+    border: 1px solid gray;
+    margin: 20px;
+    color:lightblue;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+  }
+
+  .sub {
+    background-color:lightblue;
+    border: 1px solid gray;
+    margin: 20px;
+    color: maroon;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+  }
+
+  .Red {
+    background-color: red;
+    color: white;
+    text-align: center;
+  }
+  .Green {
+    background-color: green;
+    color: white;
+    text-align: center;
+  }
+  .Blue {
+    background-color: blue;
+    color: white;
+    text-align: center;
+  }
+.red {
+    background-color: red;
+    color: yellow;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 14px;
+}
+.blue {
+    background-color: blue;
+    color: yellow;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 14px;
+}
+.green {
+    background-color: green;
+    color: yellow;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 14px;
+}
