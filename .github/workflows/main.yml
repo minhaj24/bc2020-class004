@@ -28,4 +28,4 @@ jobs:
     - name: install surge
       run: npm install -g surge
     - name: Run surge
-      run: surge ./ bc2020-class004.surge.sh --token ${{secrets.SURGE_TOKEN}}
+      run: surge ./ bc2020-minhaj-class004.surge.sh --token ${{secrets.SURGE_TOKEN}}
