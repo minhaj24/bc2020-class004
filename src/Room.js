@@ -5,11 +5,7 @@ import "./Room.css";
 function Room() {
     let [isLit, setLit] = useState("dark");
     let [tmp, setTmp] = useState(22);
-    function updateLit() {
 
-
-
-    }
 
   return (
       
